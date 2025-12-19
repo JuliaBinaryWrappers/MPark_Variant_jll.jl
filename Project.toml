@@ -1,6 +1,6 @@
 name = "MPark_Variant_jll"
 uuid = "f2231ef7-89d6-5261-81ea-5b9beade23d6"
-version = "1.4.0+0"
+version = "1.4.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
