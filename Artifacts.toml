@@ -1,0 +1,6 @@
+[MPark_Variant]
+git-tree-sha1 = "e08914e1c6da12dd18b5ce48464688e83321491d"
+
+    [[MPark_Variant.download]]
+    sha256 = "1a4d942b8b2314d19ca54ab7341be1af621198fe7feb30d2016b04da879f0301"
+    url = "https://github.com/JuliaBinaryWrappers/MPark_Variant_jll.jl/releases/download/MPark_Variant-v1.4.0+0/MPark_Variant.v1.4.0.any.tar.gz"
